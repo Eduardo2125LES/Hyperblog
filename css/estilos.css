@@ -1,6 +1,25 @@
 body{
-    color: deeppink;
+    color: rgb(68, 58, 63);
 text-align: Center;
 font-family:"Arial";
+font-size: 16 px;
+
+}
+
+#container
+{
+border-radius: 5px;
+align-content: left;
+border: 3px solid blue;
+
+
+}
+
+#container h1
+{
+font-style: italic;
+color: brown;
+
+
 
 }
