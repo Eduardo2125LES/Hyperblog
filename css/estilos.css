@@ -8,9 +8,10 @@ font-size: 16 px;
 
 #container
 {
-border-radius: 5px;
+
 align-content: left;
-border: 3px solid blue;
+border: 1px solid;
+border-radius: 3px solid  rgb(147, 147, 238);
 
 
 }
@@ -22,4 +23,28 @@ color: brown;
 
 
 
+}
+#cabecera {
+
+    background:rgb(176, 176, 235);
+    box-shadow:0px, 5px, 30px, 0px gray;
+    color: rgb(250, 252, 164);
+    padding: 0.5 em;
+    font-weight: bold;
+    /*border-radius: 5px;*/
+    
+    
+}
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.9em;
+    color:chocolate;
+    font-style: italic;
+}
+
+#post
+{
+    padding: 1em;
 }
